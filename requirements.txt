@@ -1,0 +1,9 @@
+windows-curses
+pandas
+dateparser
+rich
+tabula-py
+PyPDF2
+openpyxl
+jpype1
+pdfplumber
